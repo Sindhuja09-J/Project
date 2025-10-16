@@ -1,0 +1,46 @@
+header img {
+    border-radius: 50%;
+    margin-right: 15px;
+}
+ header h1{
+    padding:10px;
+ }
+.container {
+    display: flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+    padding:20px;       
+     
+}
+marquee img {
+    border-radius: 20px;
+    margin: 10px;
+}
+#b1:hover{
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px black;
+    transform: scale(1.1);
+    
+     
+}
+#b2:hover{
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px black;
+    transform: scale(1.1);
+}
+#b3:hover{
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px black;
+    transform: scale(1.1);
+}
+#b4:hover{
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px black;
+    transform: scale(1.1);
+
+}
+#b5:hover{
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px black;
+    transform: scale(1.1);
+}
